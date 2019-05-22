@@ -1,0 +1,5 @@
+name: "get-network-devices"
+runner_type: "python-script"
+description: "Get all dnac network devices"
+enabled: true
+entry_point: "network-devices.py"

@@ -1,0 +1,11 @@
+ref: dnac
+name: dnac py3 wrapper
+description: dnac simple py3 wrapper
+keywords:
+    - example
+    - test
+version: 3.0.0
+python_versions:
+  - "3"
+author: Dimension Data
+email: wentao.su@dimensiondata.com
